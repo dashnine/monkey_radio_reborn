@@ -13,11 +13,11 @@ Sounds from the old station.
 {:.lead}
 
 * [**Home**](/home/){:.heading.flip-title} --- The story of Monkey Radio.
-* [**Reviews**](/blog/reviews/){:.heading.flip-title} --- Albums from the old rotation.
-* [**Listen Live**](#){:.heading.flip-title} --- Tune in (coming soon).
+* [**Reviews and Musings**](/blog/){:.heading.flip-title} --- Albums from the old rotation, and more.
+* [**Groove@192kbps**](#){:.heading.flip-title} --- Tune in (coming soon).
 {:.related-posts.faded}
 
-## Latest reviews
+## Latest
 <!-- Feed of the most recent posts, newest first. Change `limit` to show more. -->
 <ul class="related-posts">
 {% for post in site.posts limit:6 %}
