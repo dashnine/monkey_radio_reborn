@@ -16,3 +16,11 @@ Sounds from the old station.
 * [**Reviews**](/blog/reviews/){:.heading.flip-title} --- Albums from the old rotation.
 * [**Listen Live**](#){:.heading.flip-title} --- Tune in (coming soon).
 {:.related-posts.faded}
+
+## Latest reviews
+<!-- Feed of the most recent posts, newest first. Change `limit` to show more. -->
+<ul class="related-posts">
+{% for post in site.posts limit:6 %}
+  {% include components/post-list-item.html post=post format="%d %b %Y" %}
+{% endfor %}
+</ul>

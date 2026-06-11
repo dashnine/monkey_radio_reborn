@@ -60,5 +60,16 @@ consolidations, let me know — I just wanted to share a bit of internet history
 
 ---
 
-*More to come: deeper write-ups on the sources, the consolidation process, and
-the dead ends along the way.*
+## Deep dives
+Longer write-ups on individual aspects of the rebuild. (More to come.)
+
+<!-- Grid of image-cards linking to the `_projects` collection (pages that live
+     outside the blog feed). Ordered by each page's `order:` front matter. -->
+<div class="columns columns-break">
+{% assign deep_dives = site.projects | sort: 'order' %}
+{% for project in deep_dives %}
+  <div class="column column-1-2">
+    {% include pro/project-card.html project=project %}
+  </div>
+{% endfor %}
+</div>

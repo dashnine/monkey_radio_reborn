@@ -60,3 +60,14 @@ Cold Krush Cuts is comprised of 2 continuous-mix disks by DJs that drive the Mon
 * Blue Note - Deep in Ill-usion (DJ Krush Remix)
 * DJ Vadim - B Boy
 
+## Listen
+<div class="aspect-ratio sixteen-nine">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/yTpMLMI8ldM"
+    title="Coldcut — Cold Krush Cuts"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+  ></iframe>
+</div>
