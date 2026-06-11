@@ -14,9 +14,9 @@ Winamp/Shoutcast station called **Monkey Radio** — chillout, down-tempo,
 trip-hop, and smooth jazz, an eclectic mix of artists you'd be unlikely to hear
 on traditional radio.
 
-This site is a *tribute* to it: album reviews from the old rotation, an ongoing
+This site is an unofficial tibute to the old station: album reviews from the old rotation, an ongoing
 project to track down exactly what it played and rebuild it, and — before long —
-a live stream you can tune into.
+a live stream you can tune into. The original creator isn't affiliated with Monkey Radio Reborn at all -- this is just a collection of internet history and a way to learn about the 90s-00s music it featured.
 
 ## What you'll find here
 * **[Chasing the Monkey](/chasing-the-monkey/)** --- the hunt to rebuild the
