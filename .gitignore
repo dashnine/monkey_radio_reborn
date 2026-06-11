@@ -1,0 +1,11 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.bundle
+Gemfile.lock
+.DS_Store
+
+# Bundled Hydejack-PRO theme docs / starter kits — reference only, kept out of git.
+hydejack-pro-9.2.1/

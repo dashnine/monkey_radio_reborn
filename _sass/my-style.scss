@@ -1,0 +1,21 @@
+// Custom site styles (loaded after the theme).
+// ----------------------------------------------------------------------------
+
+// Enlarge the sidebar logo when there's room for it.
+// The default `.avatar` is 7rem. On small screens the sidebar is a top header,
+// so we leave it alone; once the sidebar becomes a full-height column
+// (>= $break-point-3) we grow the logo, and grow it a touch more on the
+// widest layout (>= $break-point-dynamic).
+@media screen and (min-width: $break-point-3) {
+  .sidebar-about .avatar {
+    width: 11rem;
+    height: 11rem;
+  }
+}
+
+@media screen and (min-width: $break-point-dynamic) {
+  .sidebar-about .avatar {
+    width: 13rem;
+    height: 13rem;
+  }
+}
