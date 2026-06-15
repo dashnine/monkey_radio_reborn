@@ -61,9 +61,10 @@ Search the repo for `TODO` — the main ones:
   `home.md`) with the real stream URL once the station is up.
 - Swap the placeholder art: the logo (`assets/logo/ghost_monkey_dj.png`),
   `assets/img/sidebar-bg.jpg`, and the accent/theme colors in `_config.yml`.
-- **FIXME — favicons / PWA icons:** `assets/icons/` still contains the default
-  Hydejack icons (browser-tab favicon + installable-app icons). These were left
-  as-is for now and must be regenerated from the real logo before publishing.
+- Favicon + PWA icons in `assets/icons/` are generated from `assets/logo/mic.png`
+  via `sips` (see commit history). To regenerate after changing the source image:
+  `sips -z <px> <px> assets/logo/mic.png --out assets/icons/icon-<px>x<px>.png`
+  (sizes: 16/32 for favicons, 72–512 for PWA, 180 for apple-touch).
 - Replace the three placeholder reviews in `_posts/` with real ones.
 
 The `hydejack-pro-9.2.1/` folder is the bundled theme docs/starter kits — kept

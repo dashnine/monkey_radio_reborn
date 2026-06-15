@@ -34,7 +34,7 @@ As you might notice in the image above, however, this immediately presents sever
 
 
 ## Streaming services
-THe fan began putting together a YouTube playlist based on this 2002 list. That said, a much more thorough list was built by a different fan; this list was more than 470 tracks, and included a number of items that post-dated 2002:
+The fan began putting together a YouTube playlist based on this 2002 list. That said, a much more thorough list was built by a different fan; this list was more than 470 tracks, and included a number of items that post-dated 2002:
 
 [Youtube Playlist](https://www.youtube.com/watch?v=MpAJ0NvkbLY&list=PLa9q0QPCXV9sTSPx1G7H4JVHMXeV3LNd-)
 

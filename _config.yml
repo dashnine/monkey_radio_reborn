@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Monkey Radio Reborn
+title:                 Monkey Radio Archive
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -40,11 +40,17 @@ keywords:              []
 # TODO (art): placeholder ghost-monkey logo — will change later.
 logo:                  /assets/logo/ghost_monkey_dj.png
 
+# Browser-tab favicon + iOS home-screen icon, generated from assets/logo/mic.png.
+# Points at the root /favicon.ico (a PNG-based .ico) so the browser's automatic
+# /favicon.ico request resolves; the PNG <link> tags in head cover modern browsers.
+favicon:               /favicon.ico
+apple_touch_icon:      /assets/icons/apple-touch-icon.png
+
 # This should be the same author as first entry in `_data/authors.yml`.
 # TODO: fill in a real name + email before publishing (used by the RSS feed & SEO tags).
 author:
   # Used by `jekyll-feed`:
-  name:                Monkey Radio Reborn
+  name:                Monkey Radio Archive
   email:               you@example.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -58,8 +64,7 @@ menu:
   - title:             Reviews and Musings
     url:               /blog/
   - title:             Groove@192kbps
-    # TODO: replace `#` with your live stream URL once the station is up.
-    url:               '#'
+    url:               /groove/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -67,7 +72,7 @@ legal:                 []
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: >
-  © 2026 Monkey Radio Reborn — an unofficial fan tribute.
+  © 2026 Monkey Radio Archive — an unofficial fan tribute.
   "Monkey Radio" and "Grooving. Sexy. Beats." were trademarks of Brennan Underwood,
   whose original station ran 1999–2014.
 

@@ -16,17 +16,17 @@ on traditional radio.
 
 This site is an unofficial tibute to the old station: album reviews from the old rotation, an ongoing
 project to track down exactly what it played and rebuild it, and — before long —
-a live stream you can tune into. The original creator isn't affiliated with Monkey Radio Reborn at all -- this is just a collection of internet history and a way to learn about the 90s-00s music it featured.
+a live stream you can tune into. The original creator isn't affiliated with Monkey Radio Archive at all -- this is just a collection of internet history and a way to learn about the 90s-00s music it featured.
 
 ## What you'll find here
 * **[Chasing the Monkey](/chasing-the-monkey/)** --- the hunt to rebuild the
   station: the forum playlists, the old CDs, and the consolidated album list.
 * **[Reviews and Musings](/blog/)** --- revisiting the records from the old
   rotation one at a time, plus broader writing about the station.
-* **Groove@192kbps** --- a stream is on the way. <!-- TODO: replace the `#` link in
-  `_config.yml` (and below) with the real stream URL/embed once it's live. -->
+* **[Groove@192kbps](/groove/)** --- the stream is live; tune in.
 
 ## Groove@192kbps {#listen}
-The new Monkey Radio stream isn't up yet. When it is, the **Groove@192kbps** link in
-the sidebar will take you straight to it. Until then, dig into the
-[reviews and musings](/blog/).
+The stream is live. Head to **[Groove@192kbps](/groove/)** to hit play in your
+browser, or point any internet-radio player at the
+[direct stream](https://streaming.live365.com/a52904). Then dig into the
+[reviews and musings](/blog/) while you listen.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Monkey Radio Reborn
+title: Monkey Radio Archive
 # `cover: true` opens the sidebar to fill the whole screen on load — the
 # full-screen landing look from the Hydejack demo. Intended for landing pages.
 cover: true
@@ -14,7 +14,7 @@ Sounds from the old station.
 
 * [**Home**](/home/){:.heading.flip-title} --- The story of Monkey Radio.
 * [**Reviews and Musings**](/blog/){:.heading.flip-title} --- Albums from the old rotation, and more.
-* [**Groove@192kbps**](#){:.heading.flip-title} --- Tune in (coming soon).
+* [**Groove@192kbps**](/groove/){:.heading.flip-title} --- Tune in to the live stream.
 {:.related-posts.faded}
 
 ## Latest

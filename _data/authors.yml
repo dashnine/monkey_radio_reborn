@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # TODO: fill in a real name + email before publishing.
 author1:
-  name:              Monkey Radio Reborn
+  name:              Monkey Radio Archive
   email:             you@example.com
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -21,6 +21,7 @@ author1:
   # Commented out by default to avoid broken icons — uncomment and fill in the
   # ones you actually use.
   social:
+    reddit:          AltitudeMatters
     # twitter:         <username>
     # github:          <username>
     # email:           <mail@domain.tld>

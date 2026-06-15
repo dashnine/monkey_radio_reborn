@@ -10,14 +10,16 @@ description: >
 Rebuilding a slice of internet history, one track at a time.
 {:.lead}
 
+[↓ Jump to the Deep Dives](#deep-dives){:.btn.btn-primary}
+
 Back in 1999, an internet radio station called **Monkey Radio** went live — chillout, down-tempo,
 trip-hop, and smooth jazz, an eclectic mix of artists you'd be unlikely to hear
 on traditional radio. Thanks to it, I discovered artists like DJ Krush, Kruder &
 Dorfmeister, and A.P.E. It became the sound of a productive workday.
 
 ## The challenge
-The problem is, it's hard to say what was actually *on* Monkey Radio, today. There's a
-hand-built playlist from 2002 that was posted on a forum, and other folks
+The problem is, it's hard to say what was actually *on* Monkey Radio given we lack the raw playlist data. 
+There's a hand-built playlist document from 2002 that was posted on a forum, and other folks
 have shared Spotify and YouTube playlists that fill out the picture with more
 recent content.
 
@@ -60,7 +62,7 @@ consolidations, let me know — I just wanted to share a bit of internet history
 
 ---
 
-## Deep dives
+## Deep dives {#deep-dives}
 Longer write-ups on individual aspects of the rebuild. (More to come.)
 
 <!-- Grid of image-cards linking to the `_projects` collection (pages that live
