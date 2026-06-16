@@ -9,7 +9,7 @@ description: >
 image: /assets/img/deep_dives/album_screenshot.png
 sitemap: false
 # Hidden for now — drops out of the Deep Dives grid and builds no page.
-# Re-enable later (once the station is up) by deleting the line below.
+# Still a stub; write the page, then delete the line below to publish it.
 published: false
 ---
 

@@ -29,7 +29,7 @@ title:                 Monkey Radio Archive
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   Monkey Radio — a tribute to the old station. Album reviews, station history,
-  and (soon) a live stream you can tune into.
+  and a live stream you can tune into.
 
 # A shorter description for the sidebar.
 tagline:               A tribute. Sounds from the old station.
@@ -50,7 +50,8 @@ favicon:               /favicon.ico
 apple_touch_icon:      /assets/icons/apple-touch-icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
-# TODO: fill in a real name + email before publishing (used by the RSS feed & SEO tags).
+# NOTE: `email` below is still a placeholder — used by the RSS feed; set a real
+# address if you want one. Keep this author in sync with `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                Monkey Radio Archive
