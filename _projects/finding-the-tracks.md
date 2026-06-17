@@ -12,7 +12,7 @@ sitemap: false
 
 Once I had a list of albums to purchase (prioritized by track count!), we get to the good part: hunting down the music.
 
-# Trackqusition
+# Trackquisition
 
 I was fortunate: I had for years bought CDs of Monkey Radio artists whenever I ran across them. I already had a reasonable collection of Thievery Corporation and DJ Krush, Hird, and others.  To start, I pulled out my old disks and used EAC to get verified, high-quality FLACs of the albums I already owned.
 
@@ -48,10 +48,10 @@ In one case, Izmar - Tingeling appeared to be completely unique to Monkey Radio;
 
 The following are a handful of fascinating findings while Chasing the Monkey:
 
-## Music For Space Toursim, vol. 1
+## Music For Space Tourism, vol. 1
 ![Visit Venus](/assets/img/deep_dives/visitvenus_vinyl.jpg){:style="float:right;width:24rem;margin:0.25rem 1.5rem 1rem 0;"}
 
-This is an amazing album. The CD alone is difficult to acquire, but I found out the hard way that it is also, unfortunately, incomplete: the wayback machine confirms a Visit Venus track from this album called Après Sky. Unfortunatley, this track was only released on the 3xLP in 1995.  Even Youtube videos of this track are uncommon (one has been newly added by a user recently) and there are no digital storefronts selling it at this time. To add this to the collection, I had to acquire the vinyl from the now-defunct lable Yo Mama Records, and digitize it from my own turntable; I then mastered the track to EQ similarly to the digital extracts from the CD.  This is the version you'll hear if you're lucky enough to be listening when it rolls by on the station!
+This is an amazing album. The CD alone is difficult to acquire, but I found out the hard way that it is also, unfortunately, incomplete: the wayback machine confirms a Visit Venus track from this album called Après Sky. Unfortunately, this track was only released on the 3xLP in 1995.  Even Youtube videos of this track are uncommon (one has been newly added by a user recently) and there are no digital storefronts selling it at this time. To add this to the collection, I had to acquire the vinyl from the now-defunct label Yo Mama Records, and digitize it from my own turntable; I then mastered the track to EQ similarly to the digital extracts from the CD.  This is the version you'll hear if you're lucky enough to be listening when it rolls by on the station!
 
 
 
@@ -59,7 +59,7 @@ This is an amazing album. The CD alone is difficult to acquire, but I found out 
 
 K&D are legends for a reason -- they have a huge number of tracks on the list; one could argue that they represent a big part of the Monkey Radio sound.  If you purchased their DJ Kicks from bandcamp, however, you might not have realized you missed a track.
 
-On the original 1996 release of the album you'll find Kama - Look Up Dere. Unfortunately, this was a miscrediting of _Karma_. Likely for this reason, when Bandcamp released the album digitally, they removed the miscredited track.  This was corrected on May 22, 2026 when the 30th Anniversary remaster was released--the album recredited Karma correctly, enabling the track to be digitally purchesed on a variety of storefronts!
+On the original 1996 release of the album you'll find Kama - Look Up Dere. Unfortunately, this was a miscrediting of _Karma_. Likely for this reason, when Bandcamp released the album digitally, they removed the miscredited track.  This was corrected on May 22, 2026 when the 30th Anniversary remaster was released--the album recredited Karma correctly, enabling the track to be digitally purchased on a variety of storefronts!
 
 ## 1995
 
@@ -67,7 +67,7 @@ Speaking of K&D, the Spotify list features K&D's "1995." In spite of its name, t
 
 ## Sounds from the Thievery Hi-Fi
 
-Thievery corporation's legendary album had a gotcha as well, as it turns out: the bandcamp release and the original CD had different track lists (Sun Moon and Starts, Sleeper Car on one...Mañha on the other):
+Thievery Corporation's legendary album had a gotcha as well, as it turns out: the bandcamp release and the original CD had different track lists (Sun Moon and Starts, Sleeper Car on one...Mañha on the other):
 
 ![Comparison](/assets/img/deep_dives/tc_hifi_compare.png)
 

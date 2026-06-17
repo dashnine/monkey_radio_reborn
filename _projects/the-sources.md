@@ -15,7 +15,7 @@ The trick to recreating the old Monkey Radio feeling is in finding the music.
 
 The problem: this wasn't something that was publicly documented in a meaningful way.  Those of us that listened certainly remember impactful tracks, but the station featured a staggering array of music in the genre, much of which you'd _only hear there_.
 
-I'm not the first to have done work in the space--and everyting I did was built on their efforts.  The first place I looked was a fan [Facebook Group](https://www.facebook.com/MonkeyRadio.org/). It had links to a lot of useful starting points I could work from.
+I'm not the first to have done work in the space--and everything I did was built on their efforts.  The first place I looked was a fan [Facebook Group](https://www.facebook.com/MonkeyRadio.org/). It had links to a lot of useful starting points I could work from.
 
 When attempting to reconstruct the station, there's one authoritative place to start: 2002.
 
@@ -27,9 +27,9 @@ In part due to his struggles with the RIAA and ongoing legislation around intern
 [Original 2002 list](https://docs.google.com/spreadsheets/d/1nmnS7z8AbMsRhleVO_9e7jttkFBEL3kv1j0IzFLafkA/edit?usp=sharing)
 
 As you might notice in the image above, however, this immediately presents several serious challenges:
-- The file (as is common in the era) was hand-built. Spelling and capitalization vary dramatically, artists and track names may be swapped or mispelled. Some remixes don't appear to exist at all (likely transcription errors when it was being created).
+- The file (as is common in the era) was hand-built. Spelling and capitalization vary dramatically, artists and track names may be swapped or misspelled. Some remixes don't appear to exist at all (likely transcription errors when it was being created).
 - There are a fair number of duplicates -- possibly due to being added for the original and the remix, possibly due to the originator's library being messy and/or containing extra copies (many of these tracks were featured on compilations).
-- Additionally, this was 2002 -- and Monkey Radio ran througn 2013. There's a lot of music that played on the station later that just didn't exist yet.
+- Additionally, this was 2002 -- and Monkey Radio ran through 2014. There's a lot of music that played on the station later that just didn't exist yet.
 - Finally, note that there are no album names. Only track names...
 
 
@@ -44,9 +44,9 @@ Additionally, a separate individual (I believe the same one that runs the Monkey
 
 ### The problem
 
-Both of these provide good sources to intoroduce people to the style of the old station, but they had a serious handicap: they could only play music already present on their respective platforms. Given that Monkey Radio was created at a transitional period of the Internet, _many_ of the tracks are not present on either platform, having never made the transition to digital distribution.
+Both of these provide good sources to introduce people to the style of the old station, but they had a serious handicap: they could only play music already present on their respective platforms. Given that Monkey Radio was created at a transitional period of the Internet, _many_ of the tracks are not present on either platform, having never made the transition to digital distribution.
 
-Furthermore, while I utilized both sources, it's important to caveat that these are distinctly less official than the original 2002 playlist. Some items on those lists may not have been originallally played on the radio (I'm looking at you, K&D's "1995") even if they absolutely fit the vibe.
+Furthermore, while I utilized both sources, it's important to caveat that these are distinctly less official than the original 2002 playlist. Some items on those lists may not have been originally played on the radio (I'm looking at you, K&D's "1995") even if they absolutely fit the vibe.
 
 ## On a similar note: Discogs
 
@@ -56,9 +56,9 @@ There is also a discogs list of Monkey Radio tunes that have been released on Vi
 
 ## Eureka: Data from Wayback
 
-That said, there's one more highly authoritative site: the Wayback Machine.  The Internet archive snapshots web pages periodically; I realized that on ever snapshot of every subpage on monkeyradio.org, there was an element listing "current song" (e.g. _Current song: Fluke - Bermuda_).  
+That said, there's one more highly authoritative site: the Wayback Machine.  The Internet archive snapshots web pages periodically; I realized that on every snapshot of every subpage on monkeyradio.org, there was an element listing "current song" (e.g. _Current song: Fluke - Bermuda_).  
 
-Furthermore, there was also a Recent Playlist link showing the last 20 songs in the rotation until the site's revamp.  I wrote a script that would crawl through downloaded snapshots from Wayback and extract a list of songs from the relevant fields in each subpage's snapshot, then deduplicate them -- this added a nearly a hundred tracks that hadn't been present in any of the above lists!
+Furthermore, there was also a Recent Playlist link showing the last 20 songs in the rotation until the site's revamp.  I wrote a script that would crawl through downloaded snapshots from Wayback and extract a list of songs from the relevant fields in each subpage's snapshot, then deduplicate them -- this added nearly a hundred tracks that hadn't been present in any of the above lists!
 
 # The Caveats
 
@@ -66,7 +66,7 @@ After deduplication, we now had a massive list of more than 1600 tracks.  This l
 
 1) Some of the sources (fan lists) aren't official in any meaningful way -- if they misremember what was on the station, "bad" data will creep in.
 
-2) In the 2002 list, the data was very hand-crafted -- meaning you had multiple copies of tracks, often slightly differently named.  Tracks would be mislabled, misattributed, or named in ways that make it difficult or impossible to confidently assign them (e.g., DJ Krush's "Interlude" -- lacking an album name, there are technically several that might fit this bill).
+2) In the 2002 list, the data was very hand-crafted -- meaning you had multiple copies of tracks, often slightly differently named.  Tracks would be mislabeled, misattributed, or named in ways that make it difficult or impossible to confidently assign them (e.g., DJ Krush's "Interlude" -- lacking an album name, there are technically several that might fit this bill).
 
 3) Some of these tracks are definitely not official releases; for example, one by Blioux is almost certainly a live recording from Underwood's birthday. More on that in another article.
 

@@ -13,7 +13,7 @@ sitemap: false
 As a reminder: this is a fan-site, and features history as best I can reconstruct it from primary sources! Your mileage may vary.
 
 ## Spinning Up The Disks
-![First Capture on Wayback: Febuary of 2001](/assets/img/deep_dives/first_capture_02012001.png){:style="float:left;width:24rem;margin:0.25rem 1.5rem 1rem 0;"}
+![First Capture on Wayback: February of 2001](/assets/img/deep_dives/first_capture_02012001.png){:style="float:left;width:24rem;margin:0.25rem 1.5rem 1rem 0;"}
 Per the website's own commentary, Monkey Radio spun up in 1999. The project of developer Brennan Underwood, it featured an eclectic array of triphop, downtempo, and acid jazz...and tracks that were rare, unofficial, or from unknown artists. The site was bright purple; [Wolfe Gleitsman](https://wolfestar.net) was credited with the iconic logo.
 
 Early on it offered 128k streams as well as official 24k streams, allowing the determined user to stream music _over dialup_.
@@ -24,7 +24,7 @@ Underwood directly purchased (or otherwise acquired directly from the artists, i
 
 ## RIAA Drama
 
-Unfortunately, the Recording Industry Association of America was waging a campaign at the time against internet radio stations (among other things); the station went offline for a time for related reasons (Monkey Radio was [named specifically named in a Slashdot article in 2002](https://news.slashdot.org/story/02/08/08/040252/riaa-says-webcasting-royalties-are-too-low) as being impacted, in fact).
+Unfortunately, the Recording Industry Association of America was waging a campaign at the time against internet radio stations (among other things); the station went offline for a time for related reasons (Monkey Radio was [specifically named in a Slashdot article in 2002](https://news.slashdot.org/story/02/08/08/040252/riaa-says-webcasting-royalties-are-too-low) as being impacted, in fact).
 
 You can see the tension in Underwood's post in 2002 on the homepage:
 
@@ -72,7 +72,7 @@ The drama settled; Monkey Radio remained on the air through 2014 (though over ti
 Listeners: 195 | Peak listeners: 247 | Average listen time: 2:28:54
 ```
 
-In January of 2007 the site was revamped into a minimlaist logo and groove link that would remain in place for the remainder of the station's lifespan. 128k and 24k streams fell out over time in favor of the 192k stream as the internet grew more robust to high-data transfers.
+In January of 2007 the site was revamped into a minimalist logo and groove link that would remain in place for the remainder of the station's lifespan. 128k and 24k streams fell out over time in favor of the 192k stream as the internet grew more robust to high-data transfers.
 
 It went off-air briefly in 2011 while locating new hosting, and was used by a small but dedicated cadre of listeners until 2014 (the January 2 2014 capture shows 26 listeners, the final snapshot showing a running stream. The screenshot below features the final capture on Wayback):
 

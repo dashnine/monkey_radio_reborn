@@ -16,7 +16,7 @@ published: true
 
 With about 95% of the known tracks acquired, a new challenge presented itself: while providing a “shopping list” was easy enough, legitimately (that is, legally) providing people access to that content was another matter.  When Monkey Radio ran in the early 00s, the internet was young and the rules around Internet Radio still in flux.
 
-In fact, as was noted in [the history lesson](/_projects/history-lesson.md), the legality of sharing this material was a recurring challenge when running the old station.  The RIAA was pushing back, and the laws changing regularly (and sometimes retroactively).
+In fact, as was noted in [the history lesson](/projects/history-lesson/), the legality of sharing this material was a recurring challenge when running the old station.  The RIAA was pushing back, and the laws changing regularly (and sometimes retroactively).
 
 Today, the landscape has firmed dramatically.
 
@@ -58,7 +58,7 @@ All of this lines up to a serious set of hurdles if trying to replicate the good
 
 ## Not-So-Pirate-Radio
 
-The solution: a platform. Live365 provides a blanket licenses all rolled into a subscription fee that is dramatically cheaper than purchasing licenses individually. Additionally, their AutoDJ automatically conforms to the rules about albums and tracks; I simply needed to purchase the appropriate license and upload tracks.
+The solution: a platform. Live365 provides blanket licenses all rolled into a subscription fee that is dramatically cheaper than purchasing licenses individually. Additionally, their AutoDJ automatically conforms to the rules about albums and tracks; I simply needed to purchase the appropriate license and upload tracks.
 
 ### The Catch
 
@@ -78,7 +78,7 @@ The audio is only half the job; Live365 leans on each file's **ID3 tags** to dri
 So my workflow became:
 
 >  1. Acquire tracks through digital storefronts, or digitize using EAC (or more involved methods, for vinyl).
->  2. Add the files separatly to a Monkey Radio Archive as well as my personal library.
+>  2. Add the files separately to a Monkey Radio Archive as well as my personal library.
 >  3. Re-encode all files to Live365 specifications using ffmpeg.
 >  4. Run Musicbrainz Picard on the resulting files to clean any metadata for Live365.
 

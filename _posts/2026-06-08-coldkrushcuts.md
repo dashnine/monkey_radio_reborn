@@ -9,7 +9,7 @@ image:
 accent_image: /assets/album_covers/cold-krush-cuts-4-main.jpg
 excerpt_separator: <!--more-->
 artist: Coldcut
-year: 2011
+year: 1997
 rating: 5.0
 ---
 
