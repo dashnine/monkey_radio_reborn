@@ -102,3 +102,24 @@ The album name for Pussyfoot Records' two-disk compilation of original material 
 
 The final track of Disk 2 includes a full recording of phone sex. You have been warned. 
 
+## Pointers - Ooby
+
+The master list and the station's "now playing" both insist on a track called "Pointers - Ooby." There's just one problem: it isn't real. No band called Pointers, no song called "Ooby."
+
+The real track is Plaid's "Ooh Be Do," off _Double Figure_. So how did it end up so thoroughly mangled? The culprit was a phantom last.fm page: a Chinese-locale [artist page for "Pointers"](https://www.last.fm/zh/music/Pointers/+tracks) where the "artist" was actually the handle of the person doing the scrobbling.
+
+![The last.fm track list, scrobbler handle and all](/assets/img/deep_dives/pointers_ooby_lastfm.png){:style="float:right;width:24rem;margin:0.25rem 1.5rem 1rem 0;"}
+
+The track list was the giveaway. Alongside the mystery tune sat a pile of obvious remix references:
+
+* Ooby (Plaid Remix)
+* Ooby (Plaid DJ Mix)
+* Ooby (Plaid – Futura Connect)
+* 04 - Pointers-Ooby
+
+That last entry (a raw `04 - Pointers-Ooby` filename, scrobbler handle and all) is the exact string that got pulled in to tag the song. A scrobble from a Chinese-locale client makes the garbling even more plausible: a local filename, a misattributed "artist," and a truncated title, all baked into a credit that then propagated as gospel.
+
+![Plaid - Ooh Be Do on Bandcamp](/assets/img/deep_dives/plaid_ooh_be_do.png){:style="float:right;width:24rem;margin:0.25rem 1.5rem 1rem 0;"}
+
+The actual song is alive and well: [Plaid - "Ooh Be Do" on Bandcamp](https://plaid.bandcamp.com/track/ooh-be-do).
+
