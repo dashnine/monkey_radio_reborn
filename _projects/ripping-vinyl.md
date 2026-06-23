@@ -40,7 +40,7 @@ Plugins:
 
 After acquiring the relevant vinyl (thanks Discogs!) I set up a project in Logic Pro to maximize fidelity:
 
-1. Sample rate was set to 96kHz — I had the hardware to push this, and biased towards fidelity.
+1. Sample rate was set to 96kHz — I had the hardware to push this, and biased towards fidelity. Technically, I believe the DJM-S5 only outputs at 48khz, so that's probably the cap on my gear, but YYMV depending on your mixer (or if you have a rig that outputs directly).
 2. I/O Buffer Size was set 512 samples. We don't have to worry about latency when recording vinyl.
 3. Recorded at 24-bit.
 4. Disable plugins to reduce CPU load if needed — shouldn't be any, but it doesn't hurt.
