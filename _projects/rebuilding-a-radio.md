@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Rebuilding a Radio"
-order: 4
+order: 5
 description: >
   Turning the recovered tracks back into a station — the streaming setup, the
   playlist, and getting Monkey Radio back on the air.
