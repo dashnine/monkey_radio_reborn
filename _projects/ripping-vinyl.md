@@ -4,7 +4,7 @@ title: "Wax On, Wax Off"
 # `order` controls the position in the grid on /chasing-the-monkey/.
 order: 4
 description: >
-  Three Monkey Radio tracks live only on wax. Here's the gear and the process
+  Two Monkey Radio tracks live only on wax. Here's the gear and the process
   for digitizing vinyl while preserving its character.
 image: /assets/img/deep_dives/fazed_idjuts.jpg
 sitemap: false
@@ -15,7 +15,7 @@ The original Monkey Radio station was known for its rare grooves. As I worked th
 For our purposes, three tracks turned out to be vinyl-only:
 
 1. **Visit Venus - Après Sky:** the bonus track on the excellent _Music For Space Tourism Vol. 1_ is only present on the 1995 vinyl release.
-2. **Fazed Idjuts feat. Sally Rogers - Dust of Life (Main Guitar Mix):** while I found bootlegs of this, the only legitimate purchase path I found for this particular mix was to buy the 12" single, _Fazed Idjuts - Dust Of Life (Joe Claussell Mixes)_. The disk features the "Guitar Mix" and "Drum Mix One" on the A side, and "Piano Part Two Mix" and "Drum Mix" on the B side. For our purposes we only need the guitar mix (but if I'm picking a favorite, I actually prefer the Piano mix on the B side).
+2. **Fazed Idjuts feat. Sally Rogers - Dust of Life (Main Guitar Mix):** _Edit:_ I first found this particular mix on the 12" single, _Fazed Idjuts - Dust Of Life (Joe Claussell Mixes)_. The disk features the "Guitar Mix" and "Drum Mix One" on the A side, and "Piano Part Two Mix" and "Drum Mix" on the B side. For our purposes we only need the guitar mix (but if I'm picking a favorite, I actually prefer the Piano mix on the B side).  **Edit: That said, it turns out it lives on _Carte Blanche Volume One: The Aquanote Session_, a stellar compilation you'll need for other things anyways. I've left it here since I acquired the track there (alongside excellent, rarer mixes) but you won't need that wax for a Monkey Radio track, as it turns out.**
 3. **Roots Manuva - Next Type of Motion:** this is technically digitally present in a mix form on the _Faithless - Renaissance 3D_ collection, and you can get a rerecorded variant called Motion 5000 off of Bandcamp, but for the original unmixed version you'll need to go to wax again: the 12" single. Honestly, I don't know which was actually played on the station, so I biased towards the original.
 
 # Digitizing the Discs
