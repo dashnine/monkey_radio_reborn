@@ -18,9 +18,4 @@ Sounds from the old station.
 {:.related-posts.faded}
 
 ## Latest
-<!-- Feed of the most recent posts, newest first. Change `limit` to show more. -->
-<ul class="related-posts">
-{% for post in site.posts limit:6 %}
-  {% include components/post-list-item.html post=post format="%d %b %Y" %}
-{% endfor %}
-</ul>
+{% include latest-feed.html %}

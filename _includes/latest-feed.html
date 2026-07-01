@@ -1,0 +1,8 @@
+<!-- Shared "Latest" feed of the most recent posts, newest first.
+     Used by both the landing page (index.md) and the Home page (home.md) so the
+     two stay unified. Change `limit` to show more. -->
+<ul class="related-posts">
+{% for post in site.posts limit:6 %}
+  {% include components/post-list-item.html post=post format="%d %b %Y" %}
+{% endfor %}
+</ul>

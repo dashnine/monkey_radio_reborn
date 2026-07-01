@@ -25,8 +25,5 @@ you can tune into. The original creator isn't affiliated with Monkey Radio Archi
   rotation one at a time, plus broader writing about the station.
 * **[Groove@192kbps](/groove/)** --- the stream is live; tune in.
 
-## Groove@192kbps {#listen}
-The stream is live. Head to **[Groove@192kbps](/groove/)** to hit play in your
-browser, or point any internet-radio player at the
-[direct stream](https://streaming.live365.com/a52904). Then dig into the
-[reviews and musings](/blog/) while you listen.
+## Latest
+{% include latest-feed.html %}
