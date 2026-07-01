@@ -17,8 +17,8 @@ dive on exactly how that happened.
 
 <!--more-->
 
-[**Wax On, Wax Off**](/projects/ripping-vinyl/) covers the three vinyl-only
-tracks (Visit Venus, Fazed Idjuts, and Roots Manuva), the rig I used, and the
+[**Wax On, Wax Off**](/projects/ripping-vinyl/) covers the two vinyl-only
+tracks (Visit Venus and Roots Manuva), the rig I used, and the
 process for digitizing a record while preserving its character — levels,
 recording, mastering, declicking, and splitting the sides back into tracks.
 
