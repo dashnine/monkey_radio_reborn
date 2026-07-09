@@ -60,6 +60,18 @@ That said, there's one more highly authoritative site: the Wayback Machine.  The
 
 Furthermore, there was also a Recent Playlist link showing the last 20 songs in the rotation until the site's revamp.  I wrote a script that would crawl through downloaded snapshots from Wayback and extract a list of songs from the relevant fields in each subpage's snapshot, then deduplicate them -- this added nearly a hundred tracks that hadn't been present in any of the above lists!
 
+## 2006 Stream - a primary source goldmine
+
+Long after the lists above were assembled, a helpful redditor reached out with something remarkable: some time around 2006, they had done a full dump of the stream for a while, resulting in 166 extracted tracks -- both the track names _and_ the extracted MP3s.
+
+This turned out to be a primary source goldmine. Beyond confirming the presence of tracks that had only come from less authoritative sources, the user had actual recordings of the content associated with those tracks. That meant we could _fingerprint_ some of the more mysterious entries scattered across the various lists.
+
+In particular, this let us affirmatively identify two long-mysterious tracks:
+- The mystery file `Nude_Vol_1-AudioTrack_03` was identified by Shazam fingerprint as **The Verbrilli Sound - Levee Breaks**.
+- The file `DJ_Krush-Kanji-.mp3` proved, on a listen, to be **DJ Krush - Toki No Tabiji (Journey Of Time)**, a track from _The Message At Depth_.
+
+All told, this source added 17 tracks to the list that weren't present (or traceable) on any of the other lists.
+
 # The Caveats
 
 After deduplication, we now had a massive list of more than 1600 tracks.  This list comes with some caveats:
