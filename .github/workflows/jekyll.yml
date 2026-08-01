@@ -37,7 +37,7 @@ jobs:
         with:
           ruby-version: '3.3'
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0
+          cache-version: 1 # busts a stale pre-lockfile cache (jekyll 3.9.0/liquid 4.0.3, broken on Ruby 3.2+)
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
