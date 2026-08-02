@@ -32,7 +32,7 @@ station creator's birthday party in 2001). For a while it was mirrored on the st
 badmotherfucker.org, but that's long since gone. No album, no storefront, no
 sourcing path.
 
-## Samelico — "Pepper Sweet"
+## Samelico — "Pepper Sweet" (solved!)
 
 Tagged *downtempo / dream* on [Last.fm](https://www.last.fm/es/music/Samelico),
 where "Pepper Sweet" is Samelico's most-listened-to track (202 listeners) — but
@@ -43,7 +43,9 @@ Discogs is a dead end: a search for "samelico" returns **0** results, and
 other artists. If I had to guess, the artist name, track name, or both were mangled or incorrect. The station played it; the rest of
 the internet barely remembers it.
 
-The only guess I've got right now is that Samelico might just be the scrobbler handle (this was the case for Pointers - Ooby, which turned out to be Plaid - Ooh be do, a former Most Wanted). For example, it could perhaps be Art Pepper - Sweet Love of Mine (1976)...but that's straight jazz and slightly out-of-band for this station.
+For a while, my only guess was that Samelico might just be the scrobbler handle (this was the case for Pointers - Ooby, which turned out to be Plaid - Ooh be do, a former Most Wanted). For example, it could perhaps have been Art Pepper - Sweet Love of Mine (1976)...but that's straight jazz and slightly out-of-band for this station.
+
+**Update (August 2026):** Solved! The artist and track were correctly named all along — and Samelico has sent me a copy. The track is built on samples of LL Cool J's "Going Back to Cali," Boney M's "Ma Baker," and others. More info to follow.
 
 ## Asphaltmotherflame — "Breathing Over Kiss"
 
