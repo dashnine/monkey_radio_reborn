@@ -64,13 +64,13 @@ Samelico's most-listened-to track (202 listeners), but there was precious little
 information and Discogs turned up zilch for the artist or the track.
 
 My working theory was that the artist name, the track name, or both had been
-mangled — that "Samelico" was just a scrobbler handle (as with Pointers - Ooby,
+mangled: that "Samelico" was just a scrobbler handle (as with Pointers - Ooby,
 which turned out to be Plaid - Ooh be do, another former Most Wanted), and the
-real track was something like Art Pepper - Sweet Love of Mine (1976)...even if
+real track was something like Art Pepper - Sweet Love of Mine (1976)..even if
 straight jazz felt out-of-band for this station.
 
 The truth was simpler: the artist and track were correctly named all along. After
-I found the originator, he sent me a copy of the file — though he prefers to
+I found the originator, he sent me a copy of the file...though he prefers to
 remain anonymous, so that's where the paper trail publicly ends. The track itself
 is built on samples of LL Cool J's "Going Back to Cali," Boney M's "Ma Baker,"
 and others.
@@ -92,7 +92,7 @@ The culprit turned out to be a phantom Last.fm page: a Chinese-locale
 [artist page for "Pointers"](https://www.last.fm/zh/music/Pointers/+tracks) where
 the "artist" was actually the handle of the person doing the scrobbling, and a raw
 `04 - Pointers-Ooby` filename got baked into a credit that then propagated as
-gospel. The real track is Plaid's "Ooh Be Do," off _Double Figure_ — alive and
+gospel. The real track is Plaid's "Ooh Be Do," off _Double Figure_, alive and
 well [on Bandcamp](https://plaid.bandcamp.com/track/ooh-be-do).
 
 The full detective story, phantom track list and all, is in
@@ -100,16 +100,16 @@ The full detective story, phantom track list and all, is in
 
 ### DJ Krush — "Kanji"
 
-The lists all agreed the station played a DJ Krush track called "Kanji" — but no
+The lists all agreed the station played a DJ Krush track called "Kanji" ...but no
 such title appears anywhere in Krush's discography 
-(though as he was a japanese artist, kanji were common in the titles), and with a catalog that deep,
+(though as he was a Japanese artist, kanji were common in the titles). With a catalog that deep,
 guessing which track had been mislabeled was hopeless.
 
 The answer came from the [2006 stream dump](/projects/the-sources/#2006-stream---a-primary-source-goldmine):
 a redditor's full recording of the stream, complete with the extracted MP3s. That
-archive included the actual file, `DJ_Krush-Kanji-.mp3`, and a listen settled it —
+archive included the actual file, `DJ_Krush-Kanji-.mp3`, and a listen settled it:
 "Kanji" is **DJ Krush - Toki No Tabiji (Journey of Time)**, off _The Message At
-Depth_. A real track wearing a made-up name the whole time.
+Depth_. 
 
 ### Nude Vol 1 — "AudioTrack 03"
 
