@@ -28,24 +28,9 @@ has no formal release data anywhere I've found. The track lived as a custom mix 
 
 As far as I can tell, this was never a commercial release at all. It appears to
 be a station-exclusive DJ mix (specifically, a recording of the DJ playing the
-station creator's birthday party in 2001). For a while it was mirrored on the station creator's personal website, 
+station creator's party in 2001). For a while it was mirrored on the station creator's personal website, 
 badmotherfucker.org, but that's long since gone. No album, no storefront, no
 sourcing path.
-
-## Samelico — "Pepper Sweet" (solved!)
-
-Tagged *downtempo / dream* on [Last.fm](https://www.last.fm/es/music/Samelico),
-where "Pepper Sweet" is Samelico's most-listened-to track (202 listeners) — but
-with zero album metadata attached to it.
-
-Discogs is a dead end: a search for "samelico" returns **0** results, and
-"pepper sweet" only surfaces likely-unrelated drum-and-bass and tech-house tracks by
-other artists. If I had to guess, the artist name, track name, or both were mangled or incorrect. The station played it; the rest of
-the internet barely remembers it.
-
-For a while, my only guess was that Samelico might just be the scrobbler handle (this was the case for Pointers - Ooby, which turned out to be Plaid - Ooh be do, a former Most Wanted). For example, it could perhaps have been Art Pepper - Sweet Love of Mine (1976)...but that's straight jazz and slightly out-of-band for this station.
-
-**Update (August 2026):** Solved! The artist and track were correctly named all along — and Samelico has sent me a copy. The track is built on samples of LL Cool J's "Going Back to Cali," Boney M's "Ma Baker," and others. More info to follow.
 
 ## Asphaltmotherflame — "Breathing Over Kiss"
 
@@ -55,10 +40,84 @@ logs a grand total of 28 scrobbles (14 of them "Breathing Over Kiss,") and most
 of those trace straight back to Monkey Radio listeners.
 
 IUMA archived three of the artist's tracks, pointing to an implied 2000 album
-called _Shake Yourself Loose_ ([on archive.org](https://archive.org/details/iuma-asphaltmotherflame)).
-But this particular track? It may simply be lost media.
+called _Shake Yourself Loose_ ([on archive.org](https://archive.org/details/iuma-asphaltmotherflame)). 
+Wayback captures of mp3.com and their webiste identify the band and label (StYgMa) and point to the 
+track as belonging to their second album, _The Essential Roland and Beatrice_...which has escaped capture. 
+This particular track? It may simply be lost media.
+
 
 ---
 
-Got something on any of these? [Reach out on Reddit](https://www.reddit.com/user/AltitudeMatters)
-— I'll update the hunt notes (and the station) the moment a lead pans out.
+Got something on any of these? [Reach out on Reddit](https://www.reddit.com/user/AltitudeMatters). I'll update the hunt notes (and the station) the moment a lead pans out.
+
+---
+
+# Former Most Wanted
+
+Solved hunts retire here. Proof that these ghosts *can* be found.
+
+### Samelico — "Pepper Sweet"
+
+This one was a phantom. Tagged *downtempo / dream* on
+[Last.fm](https://www.last.fm/music/Samelico/_/Samelico+-+Pepper+Sweet), where "Pepper Sweet" is
+Samelico's most-listened-to track (202 listeners), but there was precious little other 
+information and Discogs turned up zilch for the artist or the track.
+
+My working theory was that the artist name, the track name, or both had been
+mangled — that "Samelico" was just a scrobbler handle (as with Pointers - Ooby,
+which turned out to be Plaid - Ooh be do, another former Most Wanted), and the
+real track was something like Art Pepper - Sweet Love of Mine (1976)...even if
+straight jazz felt out-of-band for this station.
+
+The truth was simpler: the artist and track were correctly named all along. After
+I found the originator, he sent me a copy of the file — though he prefers to
+remain anonymous, so that's where the paper trail publicly ends. The track itself
+is built on samples of LL Cool J's "Going Back to Cali," Boney M's "Ma Baker,"
+and others.
+
+Trivia: Samelico was a friend of another Monkey Radio artist,
+[Izmar](https://netlabelarchive.org/2003/11/15/mtw032/), whose solo work was also
+a station staple. The two of them sent their tracks in to the station, and the DJ
+added them to the rotation.
+
+🎧 [Listen: Samelico — "Pepper Sweet"](/assets/rarities/Samelico-Pepper_Sweet.mp3) (8:13, 160 kbps MP3)
+
+### Pointers — "Ooby"
+
+The master list and the station's "now playing" both insisted on a track called
+"Pointers - Ooby." There was just one problem: it isn't real. No band called
+Pointers, no song called "Ooby."
+
+The culprit turned out to be a phantom Last.fm page: a Chinese-locale
+[artist page for "Pointers"](https://www.last.fm/zh/music/Pointers/+tracks) where
+the "artist" was actually the handle of the person doing the scrobbling, and a raw
+`04 - Pointers-Ooby` filename got baked into a credit that then propagated as
+gospel. The real track is Plaid's "Ooh Be Do," off _Double Figure_ — alive and
+well [on Bandcamp](https://plaid.bandcamp.com/track/ooh-be-do).
+
+The full detective story, phantom track list and all, is in
+[The Hunt: Finding the Tracks](/projects/finding-the-tracks/#pointers---ooby).
+
+### DJ Krush — "Kanji"
+
+The lists all agreed the station played a DJ Krush track called "Kanji" — but no
+such title appears anywhere in Krush's discography 
+(though as he was a japanese artist, kanji were common in the titles), and with a catalog that deep,
+guessing which track had been mislabeled was hopeless.
+
+The answer came from the [2006 stream dump](/projects/the-sources/#2006-stream---a-primary-source-goldmine):
+a redditor's full recording of the stream, complete with the extracted MP3s. That
+archive included the actual file, `DJ_Krush-Kanji-.mp3`, and a listen settled it —
+"Kanji" is **DJ Krush - Toki No Tabiji (Journey of Time)**, off _The Message At
+Depth_. A real track wearing a made-up name the whole time.
+
+### Nude Vol 1 — "AudioTrack 03"
+
+As track names go, this one gave nothing to work with: `Nude_Vol_1-AudioTrack_03`
+is just a raw rip of an unspecified CD track: a default filename standing in for
+whatever the song actually was. Unsearchable by design.
+
+The [2006 stream dump](/projects/the-sources/#2006-stream---a-primary-source-goldmine)
+broke it open the same way it did "Kanji": the recovered MP3 gave us a clear
+picture of Björk's voice, and a Shazam fingerprint confirmed the track as
+**The Verbrilli Sound - Levee Breaks**.
