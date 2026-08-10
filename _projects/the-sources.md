@@ -60,6 +60,14 @@ That said, there's one more highly authoritative site: the Wayback Machine.  The
 
 Furthermore, there was also a Recent Playlist link showing the last 20 songs in the rotation until the site's revamp.  I wrote a script that would crawl through downloaded snapshots from Wayback and extract a list of songs from the relevant fields in each subpage's snapshot, then deduplicate them -- this added nearly a hundred tracks that hadn't been present in any of the above lists!
 
+## The 2005 m3u
+
+The Wayback Machine had one more gift hiding in it. The station's stream link was normally just a stream pointer: a couple of lines telling your player where to tune in. The Wayback index holds exactly one capture of that URL, from June 19, 2005...for which the URL wasn't serving the stream pointer. It was serving the DJ's entire library playlist: 1,214 entries, complete with system paths (`Albums\<Artist>\<Album>\NN - ...`, plus a flat `Monkey Radio Singles\` folder). Album folders, in other words -- the very thing the 2002 list was missing. One capture, and it happened to be the jackpot.
+
+[The raw capture is still up on the Wayback Machine.](https://web.archive.org/web/20050619210003if_/http://monkeyradio.org/monkeyradio.m3u)
+
+While I refer to it as the 2005 m3u, however, that's a bit of a misnomer: the date is when the crawler happened to visit, not when the library was built. Comparing its contents against the Wayback current-song data year by year, the snapshot itself looks to be from around late 2003 or early 2004.
+
 ## 2006 Stream - a primary source goldmine
 
 Long after the lists above were assembled, a helpful redditor reached out with something remarkable: some time around 2006, they had done a full dump of the stream for a while, resulting in 166 extracted tracks -- both the track names _and_ the extracted MP3s.
@@ -78,7 +86,7 @@ After deduplication, we now had a massive list of more than 1600 tracks.  This l
 
 1) Some of the sources (fan lists) aren't official in any meaningful way -- if they misremember what was on the station, "bad" data will creep in.
 
-2) In the 2002 list, the data was very hand-crafted -- meaning you had multiple copies of tracks, often slightly differently named.  Tracks would be mislabeled, misattributed, or named in ways that make it difficult or impossible to confidently assign them (e.g., DJ Krush's "Interlude" -- lacking an album name, there are technically several that might fit this bill).
+2) In the 2002 list, the data was very hand-crafted -- meaning you had multiple copies of tracks, often slightly differently named.  Tracks would be mislabeled, misattributed, or named in ways that make it difficult or impossible to confidently assign them (e.g., DJ Krush's "Interlude" -- lacking an album name, there are technically several that might fit this bill). The 2005 m3u had similar issues since it pointed at the raw files on disk, some of which were misnamed or misattributed.
 
-3) Some of these tracks are definitely not official releases; for example, one by Blioux is almost certainly a live recording from Underwood's birthday. More on that in another article.
+3) Some of these tracks are definitely not official releases; for example, one by Blioux is almost certainly a live recording from a San Francisco party. More on that in another article.
 

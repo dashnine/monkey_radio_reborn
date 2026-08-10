@@ -121,3 +121,27 @@ The [2006 stream dump](/projects/the-sources/#2006-stream---a-primary-source-gol
 broke it open the same way it did "Kanji": the recovered MP3 gave us a clear
 picture of Björk's voice, and a Shazam fingerprint confirmed the track as
 **The Verbrilli Sound - Levee Breaks**.
+
+### DJ Krush, Roni Size & DJ Shadow — "Freestyle"
+
+The lists credited a
+"Freestyle" jointly to DJ Krush, Roni Size, and DJ Shadow (a collaboration that
+appears in no discography) and for a while the master list's best guess was a
+bootleg of a November 1995 Leeds show.
+
+Wrong on both counts. The file is DJ Shadow's **"89.9 Megamix"**, the B-side of a
+catalogued, purchasable 1995 Mo' Wax split single
+([Discogs](https://www.discogs.com/release/18667-DJ-Krush-DJ-Shadow-A-Whim-899-Megamix-Yeah)).  A listen confirmed it.
+
+Basically every name on the file has an origin:
+
+- **DJ Krush + DJ Shadow**: These are the single's two credited artists, and
+  the megamix weaves in Krush material.
+- **Roni Size**: printed in the CD's liner notes: "Special thanks: ... DJ
+  Shadow, Alex Reece, DJ Krust + Roni Size." 
+- **"Freestyle"**: invented by a file-sharer, presumably because the track is a
+  freestyle-style turntable megamix. Prior to pinning it to the CD, the only copy I found of the track was a YouTube video attributed with the same moniker found on the Monkey Radio tracklists.
+
+One caveat for anyone chasing the audio: the circulating unofficial MP3 runs 7:44 against the CD's official 8:48; the file was truncated ("the end is gone...", as a commenter on the 2013 YouTube upload put it).
+
+*BONUS TRIVIA*: The final track of the CD is mistakenly credited as 'Dig this Vibe' but the real track name is 'Version One.' Congratulations: that info now lives in your brain.
