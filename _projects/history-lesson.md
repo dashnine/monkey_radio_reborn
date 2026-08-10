@@ -20,13 +20,13 @@ Early on it offered 128k streams as well as official 24k streams, allowing the d
 
 ![The man, the legend](/assets/img/deep_dives/meet_your_dj.png)
 
-Underwood directly purchased (or otherwise acquired directly from the artists, in some cases) the tracks he played on the station (and had some critical things to say about Napster). While his employer initially provided the bandwidth, Underwood otherwise directly funded the station from his own pocket.
+The DJ directly purchased (or otherwise acquired directly from the artists, in some cases) the tracks he played on the station (and had some critical things to say about Napster). While his employer initially provided the bandwidth, he otherwise directly funded the station from his own pocket.
 
 ## RIAA Drama
 
 Unfortunately, the Recording Industry Association of America was waging a campaign at the time against internet radio stations (among other things); the station went offline for a time for related reasons (Monkey Radio was [specifically named in a Slashdot article in 2002](https://news.slashdot.org/story/02/08/08/040252/riaa-says-webcasting-royalties-are-too-low) as being impacted, in fact).
 
-You can see the tension in Underwood's post in 2002 on the homepage:
+You can see the tension in the DJ's post in 2002 on the homepage:
 
 <details class="message" markdown="1">
 <summary><strong>21-Jun-2002 — "Silence. I'm sorry."</strong> <em>(click to expand the full post)</em></summary>
@@ -66,7 +66,7 @@ As a side note, the playlist he posted in 2002 would become a critical primary s
 
 ## 2002 - 2014
 
-The drama settled; Monkey Radio remained on the air through 2014 (though over time Underwood stepped back from the public eye, posting less frequently on forums) and as noted in the post above he ended the subsidy provided by AOL Time Warner, directly assuming the remaining financial burden of running the station. Popularity rose on the stream in the mid-00s, with snapshots showing high listening stats in December of 2006:
+The drama settled; Monkey Radio remained on the air through 2014 (though over time the station creator stepped back from the public eye, posting less frequently on forums) and as noted in the post above he ended the subsidy provided by AOL Time Warner, directly assuming the remaining financial burden of running the station. Popularity rose on the stream in the mid-00s, with snapshots showing high listening stats in December of 2006:
 
 ```
 Listeners: 195 | Peak listeners: 247 | Average listen time: 2:28:54
