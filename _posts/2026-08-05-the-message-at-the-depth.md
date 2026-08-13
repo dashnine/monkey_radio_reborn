@@ -33,7 +33,7 @@ The lyrics and melody here still feel experimental, but (unlike, in my opinion, 
 
 ## The second half
 
-After another interlude we settle into much more predictably "Krush" tracks, with guests providing a sampling of different varieties of triphop against comfortably ominous beats. If there's a criticism of the second half, it's that by the time What About Tomorrow's pop-friendly dub wraps, we've perhaps entered "too safe" territory.  This doesn't stop the other Monkey Radio track, "But the World Moves On," from being a highlight: the melody stands out with impressive, jazzy lines against menacing beats. The track sounds almost like something of of Ki-Oku.
+After another interlude we settle into much more predictably "Krush" tracks, with guests providing a sampling of different varieties of triphop against comfortably ominous beats. If there's a criticism of the second half, it's that by the time What About Tomorrow's pop-friendly dub wraps, we've perhaps entered "too safe" territory.  This doesn't stop the other Monkey Radio track, "But the World Moves On," from being a highlight: the melody stands out with impressive, jazzy lines against menacing beats. The track sounds almost like something off of Ki-Oku.
 
 ## The verdict
 
