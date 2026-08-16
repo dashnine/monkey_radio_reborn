@@ -52,9 +52,9 @@ acquirable, known Monkey Radio tracks!
 
 ## A Labor of Love
 
-The Monkey Radio Archive is an (unofficial, unaffiliated) tribute to the original station.
+The Monkey Radio Archive is an unofficial, unaffiliated tribute to the original station, aiming to faithfully recreate it.
 All commercially released tracks were purchased from digital storefronts where possible, and
-as used media otherwise — the intention being to support the artists — and the radio station
+as used media otherwise (the intention being to support the artists) and the radio station
 is run via a service providing the relevant PROs. It is provided ad-free and free of charge,
 in the same 192k stream the original gave us.
 
