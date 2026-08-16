@@ -2,7 +2,7 @@
 layout: post
 title: "Groove: More Tracks Added to the Archive"
 description: >
-  A fresh tranche of 102 tracks joins the Monkey Radio Archive — singles, rarities,
+  A fresh tranche of 102 tracks joins the Monkey Radio Archive: singles, rarities,
   and a long-awaited haul from the Bento Box compilation.
 image:
   path: /assets/logo/ghost_monkey_dj.png

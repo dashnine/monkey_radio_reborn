@@ -2,7 +2,7 @@
 layout: post
 title: "Groove: Monkey Radio Archive Goes Live"
 description: >
-  Launch day — 1507 tracks from the old Monkey Radio rotation are now streaming
+  Beta Launch: 1507 tracks from the old Monkey Radio rotation are now streaming
   ad-free, plus the deep dives on how it all got rebuilt.
 image:
   path: /assets/logo/ghost_monkey_dj.png

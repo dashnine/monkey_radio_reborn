@@ -2,7 +2,7 @@
 layout: post
 title: "Groove: 33 Rarities and B-Sides Join the Archive"
 description: >
-  33 new tracks land in the Monkey Radio Archive — rarities and b-sides from DJ Krush,
+  33 new tracks land in the Monkey Radio Archive, including rarities and b-sides from DJ Krush,
   Lamb, Mez, and the Japanese release of Geogaddi. Also: a hard call on K&D's "1995."
 image:
   path: /assets/logo/ghost_monkey_dj.png

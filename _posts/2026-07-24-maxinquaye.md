@@ -24,7 +24,7 @@ What resulted is a gripping piece of wax: the vocals of Tricky and Martina Tople
 
 ## Standouts
 
-A few particular standouts merit a mention. For starters, track four (Hell Is Round the Corner) will sound extra familiar to Portishead fans; both this and Glory Box sampled Isaac Hayes' "Ike's Rap II" for the backing track. Tricky takes the lead while Topley-Bird does breathy secondary lines behind him. "Until then — you have to live yourself. Until then, you have to live with yourself." The song doesn't take a traditional chorus feel, instead relying on breaks in the beat, vocalist handoffs, and targeted silence to give the song structure.
+A few particular standouts merit a mention. For starters, track four (Hell Is Round the Corner) will sound extra familiar to Portishead fans; both this and Glory Box sampled Isaac Hayes' "Ike's Rap II" for the backing track. Tricky takes the lead while Topley-Bird does breathy secondary lines behind him. "Until then-you have to live yourself. Until then, you have to live with yourself." The song doesn't take a traditional chorus feel, instead relying on breaks in the beat, vocalist handoffs, and targeted silence to give the song structure.
 
 "Abbaon Fat Tracks" leads the B-side, if you're listening on vinyl. It's a thrilling listen, but _dark_: the lyrics are drugs and intimate experiences cheapened. It's erotic, but not actually positive, instead leaning…nihilistic? At the same time, you can't help but be hooked; the song is addiction sans repentance.
 

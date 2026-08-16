@@ -36,7 +36,7 @@ Heat Miser, the next-to-last track, is a particularly delightful example of mood
 
 ## Verdict
 
-At the end of the day, this is a Massive Attack album, and worth the time--but at the same time, I view it as more of a house for a number of good tracks, rather than a piece of wax you can listen to end to end without qualms.
+At the end of the day, this is a Massive Attack album, and worth the time...but at the same time, I view it as more of a house for a number of good tracks, rather than a piece of wax you can listen to end to end without qualms.
 
 ## Monkey Radio Tracks: 6/10
 * Massive Attack - Karmacoma

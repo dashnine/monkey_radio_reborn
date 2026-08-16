@@ -4,7 +4,7 @@ category: reviews
 title: 'DJ Krush - 深層 "The Message at the Depth"'
 description: >
   A review of 深層 "The Message at the Depth", DJ Krush's 2002 descent into
-  industrial found-sound — and home of the track Monkey Radio knew only as "Kanji."
+  industrial found-sound and home of the track Monkey Radio knew only as "Kanji."
 image:
   path: /assets/album_covers/message_at_the_depth.jpg
 accent_image: /assets/album_covers/message_at_the_depth.jpg

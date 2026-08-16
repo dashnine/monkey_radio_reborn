@@ -3,7 +3,7 @@ layout: post
 title: "Groove: A New Deep Dive on Ripping Vinyl"
 description: >
   A few Monkey Radio tracks only ever existed on wax. There's now a deep dive on
-  how they got digitized — the gear, the levels, and the judgment calls.
+  how they got digitized: the gear, the levels, and the judgment calls.
 image:
   path: /assets/img/deep_dives/fazed_idjuts.jpg
 accent_image: /assets/img/deep_dives/fazed_idjuts.jpg
