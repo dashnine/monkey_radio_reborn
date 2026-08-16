@@ -41,7 +41,7 @@ acquirable, known Monkey Radio tracks!
 ![Customs declarations from the imports: Great Britain, Japan, France, Sweden](/assets/img/post_art/imports.jpg){:style="float:right;width:16rem;margin:0.25rem 0 1rem 1.5rem;"}
 
 * **395 tracks** were only found on vinyl or CD (across 90 albums). Many of these had to be
-  imported, coming to me from Germany, Great Britain, France, Canada, and Japan.
+  imported, coming to me from Sweden, Great Britain, France, Canada, and Japan.
 * **107 tracks** (13 albums) were bought from Juno before it shut down permanently.
 * **2 known tracks** (0.1%) are currently unlocated (Le Blioux and Asphaltmotherflame).
 * **2 tracks** were lost media, recovered directly from the original artists.
