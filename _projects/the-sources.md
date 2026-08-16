@@ -4,7 +4,7 @@ title: The Sources
 # `order` controls the position in the grid on /chasing-the-monkey/.
 order: 1
 description: >
-  Where the track lists came from — the 2002 forum playlist, the Wayback Machine
+  Where the track lists came from: the 2002 forum playlist, the Wayback Machine
   and the Spotify/YouTube/Discogs lists that fill in the gaps.
 
 image: /assets/img/deep_dives/sources.png
@@ -62,7 +62,7 @@ Furthermore, there was also a Recent Playlist link showing the last 20 songs in 
 
 ## The 2005 m3u
 
-The Wayback Machine had one more gift hiding in it. The station's stream link was normally just a stream pointer: a couple of lines telling your player where to tune in. The Wayback index holds exactly one capture of that URL, from June 19, 2005...for which the URL wasn't serving the stream pointer. It was serving the DJ's entire library playlist: 1,214 entries, complete with system paths (`Albums\<Artist>\<Album>\NN - ...`, plus a flat `Monkey Radio Singles\` folder). Album folders, in other words -- the very thing the 2002 list was missing. One capture, and it happened to be the jackpot.
+The Wayback Machine had one more gift hiding in it. The station's stream link was normally just a stream pointer: a couple of lines telling your player where to tune in. The Wayback index holds exactly one capture of that URL, from June 19, 2005...for which the URL wasn't serving the stream pointer. It was serving the DJ's entire library playlist: 1,214 entries, complete with system paths (`Albums\<Artist>\<Album>\NN - ...`, plus a flat `Monkey Radio Singles\` folder). Album folders, in other words: the very thing the 2002 list was missing.
 
 [The raw capture is still up on the Wayback Machine.](https://web.archive.org/web/20050619210003if_/http://monkeyradio.org/monkeyradio.m3u)
 
@@ -72,7 +72,7 @@ While I refer to it as the 2005 m3u, however, that's a bit of a misnomer: the da
 
 Long after the lists above were assembled, a helpful redditor reached out with something remarkable: some time around 2006, they had done a full dump of the stream for a while, resulting in 166 extracted tracks -- both the track names _and_ the extracted MP3s.
 
-This turned out to be a primary source goldmine. Beyond confirming the presence of tracks that had only come from less authoritative sources, the user had actual recordings of the content associated with those tracks. That meant we could _fingerprint_ some of the more mysterious entries scattered across the various lists.
+Beyond confirming the presence of tracks that had only come from less authoritative sources, the user had actual recordings of the content associated with those tracks. That meant we could _fingerprint_ some of the more mysterious entries scattered across the various lists.
 
 In particular, this let us affirmatively identify two long-mysterious tracks:
 - The mystery file `Nude_Vol_1-AudioTrack_03` was identified by Shazam fingerprint as **The Verbrilli Sound - Levee Breaks**.

@@ -3,7 +3,7 @@ layout: page
 title: "Chasing the Monkey: Rebuilding Internet History"
 permalink: /chasing-the-monkey/
 description: >
-  The hunt to figure out what Monkey Radio actually played — and to rebuild it
+  The hunt to figure out what Monkey Radio actually played, and to rebuild it
   from forum playlists, old CDs, and a lot of detective work.
 ---
 
@@ -12,7 +12,7 @@ Rebuilding a slice of internet history, one track at a time.
 
 [↓ Jump to the Deep Dives](#deep-dives){:.btn.btn-primary}
 
-Back in 1999, an internet radio station called **Monkey Radio** went live — chillout, down-tempo,
+Back in 1999, an internet radio station called **Monkey Radio** went live: chillout, down-tempo,
 trip-hop, and smooth jazz, an eclectic mix of artists you'd be unlikely to hear
 on traditional radio. Thanks to it, I discovered artists like DJ Krush, Kruder &
 Dorfmeister, and A.P.E. It became the sound of a productive workday.
@@ -25,14 +25,14 @@ recent content.
 
 Armed with a Plex server, a healthy portion of these tracks on old CDs, and a deep
 desire to buy the rest and replicate the station for my own entertainment, I started hunting. 
-That turned out to be harder than it sounds: the 2002 playlist is full of errors —
-swapped artists and track names, misspellings, duplicates — and lists no album
+That turned out to be harder than it sounds: the 2002 playlist is full of errors
+(swapped artists and track names, misspellings, duplicates) and lists no album
 names. It also only runs through 2002, so other (less complete) lists have to
 fill the gaps with newer artists like Hird.
 
 ## Rebuilding the rotation
 So I set out to use a mix of scripts, AI, and old-fashioned web sleuthing to
-consolidate as many tracks as possible into as few albums as possible — many of
+consolidate as many tracks as possible into as few albums as possible; many of
 them collected on compilations and remix albums. I'm sharing the results in case
 anyone else has the same impossible dream:
 
@@ -48,7 +48,7 @@ A few notes on the data:
 * **Many tracks are remixes.** I've removed a lot of cross-collection duplicates,
   which may have accidentally culled some original versions. There's heavy
   cross-pollination, so most are still present somewhere on the artists' albums.
-  I kept tracks that were explicitly different versions — but if you're confident
+  I kept tracks that were explicitly different versions...but if you're confident
   something shouldn't have been dropped, let me know...
 * **Some only exist on old CDs.** The internet was young, and many of these
   artists were obscure enough to fall through the digital-storefront cracks. At
@@ -58,7 +58,7 @@ A few notes on the data:
 
 Thanks to the folks at the [Monkey Radio fan-site on Facebook](https://www.facebook.com/MonkeyRadio.org/)
 for collecting the sources I started from. If I missed any big albums or
-consolidations, let me know — I just wanted to share a bit of internet history.
+consolidations, let me know; I just wanted to share a bit of internet history.
 
 ---
 

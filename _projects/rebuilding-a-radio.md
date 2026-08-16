@@ -3,7 +3,7 @@ layout: project
 title: "Rebuilding a Radio"
 order: 5
 description: >
-  Turning the recovered tracks back into a station — the streaming setup, the
+  Turning the recovered tracks back into a station: the streaming setup, the
   playlist, and getting Monkey Radio back on the air.
 # TODO (art): replace the stub image with real artwork for this page.
 image: /assets/img/deep_dives/album_screenshot.png
@@ -67,13 +67,13 @@ Of course, this required those tracks to be correctly managed.  My library is al
 - **Bitrate:** between **32 and 320 kbps**, with the ceiling set by your package.
 - **Sample rate:** **44.1 kHz**.
 - **Channel mode:** **Joint Stereo**.
-- **Bitrate mode:** **constant (CBR)** — *not* variable (VBR).
+- **Bitrate mode:** **constant (CBR)**, *not* variable (VBR).
 
 So every FLAC had to be transcoded down to a conforming MP3. (Going lossless to lossy is a one-way trip, but a streaming platform was always going to be lossy anyway). I set the bitrate to 192kbps--the highpoint of the station when it ran.
 
 ### Tag, You're It
 
-The audio is only half the job; Live365 leans on each file's **ID3 tags** to drive the stream. At minimum every track needs clean **Title**, **Artist**, and **Album** fields, since that's what gets pushed out as now-playing metadata and what the AutoDJ uses to enforce the artist/album spacing rules above. Garbage in, garbage out: a missing or mislabeled artist tag doesn't just look sloppy on the listener's screen, it can let the rotation drift out of compliance. Album art embedded in the tags carries through to the player as well.
+The audio is only half the job; Live365 leans on each file's **ID3 tags** to drive the stream. At minimum every track needs clean **Title**, **Artist**, and **Album** fields, since that's what gets pushed out as now-playing metadata and what the AutoDJ uses to enforce the artist/album spacing rules above. Garbage in, garbage out: a missing or mislabeled artist tag looks sloppy on the listener's screen, and can let the rotation drift out of compliance. Album art embedded in the tags carries through to the player as well.
 
 So my workflow became:
 

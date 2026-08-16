@@ -4,7 +4,7 @@ title: "The Hunt: Finding the Tracks"
 order: 3
 description: >
   Tracking down obscure tracks across digital stores, old CDs, and the occasional
-  12" vinyl — and the dead ends along the way.
+  12" vinyl, and the dead ends along the way.
 # TODO (art): replace the stub image with real artwork for this page.
 image: /assets/img/deep_dives/albums_bw.jpg
 sitemap: false
@@ -42,7 +42,7 @@ Monkey Radio's heyday was in the early years of the internet. Many of these arti
 
 There are also albums and tracks on this list that do not have official releases. For cases such as Flying Lotus's July Heat and Demo 06 are unauthorized (and, I believe, unacknowledged) demo tapes passed around by fans. Listeners apparently even debate the provenance of IIOIO entirely!
 
-In one case, Izmar - Tingeling appeared to be completely unique to Monkey Radio; the only place I found online with it was a soundcloud user that had recorded it...off of Monkey Radio.
+In one case, Izmar - Tingeling appeared to be completely unique to Monkey Radio; the only place I found online with it was a soundcloud user that had recorded it...off of Monkey Radio. Fortunately, I was able to get in touch with the artist, who both confirmed the track was genuine, and sent an "official" copy.
 
 # Tales from The Hunt
 
@@ -65,7 +65,7 @@ On the original 1996 release of the album you'll find Kama - Look Up Dere. Unfor
 
 Speaking of K&D, the Spotify list features K&D's "1995." In spite of its name, this album was released in 2020...which is after MR shut down. That makes the provenance of this fairly suspect; however, the album is created based on tapes of unreleased content the duo found from 1995. Given Underwood's collection of unreleased or rare finds, it is technically feasible he might have had access to early demos of some of this content -- and it fits the vibe, of course. I originally left it in, but took it with a grain of salt.
 
-**Update (July 2026):** the grain of salt won. With the rediscovery of the 2005 tracklist, not a single track from _1995_ appears on any canonical source — so [it's been disabled in the rotation](/blog/2026-07-16-rarities-and-b-sides/) for now.
+**Update (July 2026):** the grain of salt won. With the rediscovery of the 2005 tracklist, not a single track from _1995_ appears on any canonical source, so [it's been disabled in the rotation](/blog/2026-07-16-rarities-and-b-sides/) for now.
 
 ## Sounds from the Thievery Hi-Fi
 

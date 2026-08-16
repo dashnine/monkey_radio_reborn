@@ -29,7 +29,7 @@ Unfortunately, the Recording Industry Association of America was waging a campai
 You can see the tension in the DJ's post in 2002 on the homepage:
 
 <details class="message" markdown="1">
-<summary><strong>21-Jun-2002 — "Silence. I'm sorry."</strong> <em>(click to expand the full post)</em></summary>
+<summary><strong>21-Jun-2002: "Silence. I'm sorry."</strong> <em>(click to expand the full post)</em></summary>
 
 > **21-Jun-2002**
 >

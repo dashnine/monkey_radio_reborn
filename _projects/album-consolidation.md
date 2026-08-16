@@ -3,7 +3,7 @@ layout: project
 title: "Efficiency: Album Consolidation"
 order: 2
 description: >
-  Collapsing 1600+ scattered tracks into as few albums as possible — compilations,
+  Collapsing 1600+ scattered tracks into as few albums as possible: compilations,
   remix albums, and the tier system for buying it all.
 # TODO (art): replace the stub image with real artwork for this page.
 image: /assets/album_covers/cold-krush-cuts-4-main.jpg
