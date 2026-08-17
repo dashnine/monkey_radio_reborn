@@ -22,28 +22,62 @@ everything I've managed to dig up so far.
 
 ## LeBlioux of sacreBLIOUX — "Pimpin2k1 Soundtrack" (San Francisco)
 
+![The Last.fm page: 10 listeners, 84 scrobbles, no wiki](/assets/img/deep_dives/leblioux3.png){:style="float:right;width:20rem;margin:0.25rem 0 1rem 1.5rem;"}
+
 A San Francisco? DJ, circa 2001, who turns up in old trip-hop forum threads but
 has no formal release data anywhere I've found. The track lived as a custom mix at
 `monkeyradio.org/pimpin2k1/` for a bit.
+[Last.fm](https://www.last.fm/music/LeBlioux+of+sacreBLIOUX) knows the name (10
+listeners, 84 scrobbles, most of them surely Monkey Radio listeners) but nothing
+else: no wiki, no tags, no leads.
 
 As far as I can tell, this was never a commercial release at all. It appears to
 be a station-exclusive DJ mix (specifically, a recording of the DJ playing the
-station creator's party in 2001). For a while it was mirrored on the station creator's personal website, 
-badmotherfucker.org, but that's long since gone. No album, no storefront, no
+station creator's party in 2001). For a while it was mirrored on the station creator's personal website, but that's long since gone. No album, no storefront, no
 sourcing path.
+
+![The badmofo.org/mixes listing, captured before it vanished: five LeBlioux mixes, Pimpin2k1Soundtrack.mp3 among them](/assets/img/deep_dives/leblioux2.png)
+{:style="clear:both;"}
+
+A capture of the old download listing at `badmofo.org/mixes` shows the Pimpin2k1
+soundtrack wasn't alone, either: it sat alongside four other LeBlioux mixes
+("BLIOUXblood," "Blue Butt Monkey 2 - Return of Cmos," "luvletta," and
+"bliouxmonkey"), all hefty 40-76MB files, all equally gone.
+
+![January 2003: LeBlioux, "spinnin' at nasa in toronto"](/assets/img/deep_dives/leblioux1.png)
+
+The one live sighting I've turned up: a January 2003 "upcoming shows" post has
+LeBlioux spinning at NASA in Toronto...which either complicates the San
+Francisco theory, or just means the DJ traveled.
 
 ## Asphaltmotherflame — "Breathing Over Kiss"
 
+![The mp3.com artist page. Music style: "blase, experimental tripe." Sole group member: The Doctor G.P.](/assets/img/deep_dives/amf1.png){:style="float:right;width:20rem;margin:0.25rem 0 1rem 1.5rem;"}
+
 Not found _anywhere_. The Wayback Machine's capture of mp3.com confirms the
 artist existed under that name (artist ID 37). [Last.fm](https://www.last.fm/music/Asphaltmotherflame)
-logs a grand total of 28 scrobbles (14 of them "Breathing Over Kiss,") and most
+logs a grand total of 28 scrobbles (13 of them "Breathing Over Kiss,") and most
 of those trace straight back to Monkey Radio listeners.
 
 IUMA archived three of the artist's tracks, pointing to an implied 2000 album
 called _Shake Yourself Loose_ ([on archive.org](https://archive.org/details/iuma-asphaltmotherflame)). 
-Wayback captures of mp3.com and their webiste identify the band and label (StYgMa) and point to the 
-track as belonging to their second album, _The Essential Roland and Beatrice_...which has escaped capture. 
-This particular track? It may simply be lost media.
+Wayback captures of mp3.com and their website identify the band and label (StYgMa / hEADtHING) and point to the 
+track as belonging to their second album, _The Essential Roland and Beatrice_.
+
+That second album is the tantalizing part. A capture of hEADtHING (DrJeep's
+old site) preserves the album page itself: thirteen tracks, "breathing over
+kiss" right at the top, released May 1, 2001, produced by The Doctor G.P. The
+tracklist survived; the audio didn't. This particular track? It may simply be
+lost media.
+
+![Three Shake Your Self Loose tracks on mp3.com, credited to The Doctor G.P., 1999/2000/2001](/assets/img/deep_dives/amf2.png){:style="width:48%;vertical-align:top;"}
+![The Essential Roland & Beatrice on hEADtHING: the tracklist survived, the MP3s did not](/assets/img/deep_dives/amf3.png){:style="width:48%;vertical-align:top;"}
+{:style="clear:both;text-align:center;"}
+
+**Update, August 2026:** I've identified the real person behind The Doctor G.P.
+(a.k.a. DrJeep) and reached out. No response so far. I won't be posting their
+identity without permission, of course - and I'd ask that nobody else go reach out on my behalf unless you know the artist personally; one polite knock is enough. If anything comes of it,
+I'll update this entry.
 
 
 ---
