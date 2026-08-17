@@ -60,15 +60,14 @@ logs a grand total of 28 scrobbles (13 of them "Breathing Over Kiss,") and most
 of those trace straight back to Monkey Radio listeners.
 
 IUMA archived three of the artist's tracks, pointing to an implied 2000 album
-called _Shake Yourself Loose_ ([on archive.org](https://archive.org/details/iuma-asphaltmotherflame)). 
+called _Shake Yourself Loose_ ([on archive.org](https://archive.org/details/iuma-asphaltmotherflame)), and another archivist preserved "The Monkey and the Crow," bringing the total to four surviving files...none of which is "Breathing Over Kiss."
 Wayback captures of mp3.com and their website identify the band and label (StYgMa / hEADtHING) and point to the 
 track as belonging to their second album, _The Essential Roland and Beatrice_.
 
-That second album is the tantalizing part. A capture of hEADtHING (DrJeep's
+That second album is our target. A capture of hEADtHING (DrJeep's
 old site) preserves the album page itself: thirteen tracks, "breathing over
 kiss" right at the top, released May 1, 2001, produced by The Doctor G.P. The
-tracklist survived; the audio didn't. This particular track? It may simply be
-lost media.
+tracklist survived; the audio remains lost media for now.
 
 ![Three Shake Your Self Loose tracks on mp3.com, credited to The Doctor G.P., 1999/2000/2001](/assets/img/deep_dives/amf2.png){:style="width:48%;vertical-align:top;"}
 ![The Essential Roland & Beatrice on hEADtHING: the tracklist survived, the MP3s did not](/assets/img/deep_dives/amf3.png){:style="width:48%;vertical-align:top;"}
