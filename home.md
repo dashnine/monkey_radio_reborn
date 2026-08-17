@@ -10,7 +10,7 @@ Grooving. Sexy. Beats.
 {:.lead}
 
 If you were on the internet in the early 2000s, you might remember a
-Winamp/Shoutcast station called **Monkey Radio** — chillout, down-tempo,
+Winamp/Shoutcast station called **Monkey Radio**: chillout, down-tempo,
 trip-hop, and smooth jazz, an eclectic mix of artists you'd be unlikely to hear
 on traditional radio.
 

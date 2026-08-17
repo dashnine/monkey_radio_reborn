@@ -3,7 +3,7 @@ layout: page
 title: Most Wanted
 permalink: /most-wanted/
 description: >
-  The handful of Monkey Radio tracks that have so far defeated every search —
+  The handful of Monkey Radio tracks that have so far defeated every search:
   station exclusives, lost media, and ghosts with no album behind them.
 ---
 

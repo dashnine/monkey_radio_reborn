@@ -28,7 +28,7 @@ title:                 Monkey Radio Archive
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Monkey Radio — a tribute to the old station. Album reviews, station history,
+  Monkey Radio: a tribute to the old station. Album reviews, station history,
   and a live stream you can tune into.
 
 # A shorter description for the sidebar.
@@ -78,7 +78,7 @@ legal:                 []
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: >
-  © 2026 Monkey Radio Archive — an unofficial fan tribute.
+  © 2026 Monkey Radio Archive, an unofficial fan tribute.
   "Monkey Radio" and "Grooving. Sexy. Beats." were trademarks of Brennan Underwood,
   whose original station ran 1999–2014.
 

@@ -3,7 +3,7 @@ layout: page
 title: Deep Dives
 permalink: /projects/
 description: >
-  Longer write-ups on the work of rebuilding Monkey Radio — the sources, the
+  Longer write-ups on the work of rebuilding Monkey Radio: the sources, the
   consolidation, the hunt, and getting the station back on the air.
 sitemap: false
 ---
