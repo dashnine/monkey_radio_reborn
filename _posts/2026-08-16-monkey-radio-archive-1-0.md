@@ -62,8 +62,8 @@ This is not to say that the
 [purchase list](https://docs.google.com/spreadsheets/d/1boLv9FFnjjzpS9O0828yRW1H3c6VIxN624_I4zYVXBI)
 is the same one the DJ used! The discovery of the
 [2005 snapshot of the m3u](/projects/the-sources/#the-2005-m3u) showed that alternative albums
-were sometimes used to get to the same tracks (for instance, the _Blade_ soundtrack was used
-to source Krush's "Dig That Vibe").
+were sometimes used to get to the same tracks (for instance, the _Blade_ soundtrack was originally used
+to source Krush's "Dig That Vibe"), and J-Boogie's tracks arrived via a prerelease sampler (but have sinced been released on his albums).
 
 ## The Caveats
 
