@@ -42,7 +42,12 @@ sourcing path.
 A capture of the old download listing at `badmofo.org/mixes` shows the Pimpin2k1
 soundtrack wasn't alone, either: it sat alongside four other LeBlioux mixes
 ("BLIOUXblood," "Blue Butt Monkey 2 - Return of Cmos," "luvletta," and
-"bliouxmonkey"), all hefty 40-76MB files, all equally gone.
+"bliouxmonkey"), all hefty 40-76MB files, all seemingly gone.
+
+**Update, August 2026:** one of those siblings has resurfaced! Thanks to a
+helpful redditor, I now have a copy of luvletta.mp3 - tagged "luvletta (for
+kla)", dated 2002, with the album listed as _An evening with Kristal_. Proof
+that these mixes are still out there. The hunt continues for the Pimpin2k1 mix!
 
 ![January 2003: LeBlioux, "spinnin' at nasa in toronto"](/assets/img/deep_dives/leblioux1.png)
 
