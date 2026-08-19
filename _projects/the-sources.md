@@ -80,6 +80,12 @@ In particular, this let us affirmatively identify two long-mysterious tracks:
 
 All told, this source added 17 tracks to the list that weren't present (or traceable) on any of the other lists.
 
+## Checking the Work
+
+Each of the sources above was normalized into a consistent format so the lists could be compared, deduplicated, and merged against one another.  If you want to dig into why a particular track was included (or which list it came from in the first place), those normalized files are available here:
+
+[Normalized data sources on Google Drive](https://drive.google.com/drive/folders/11pEuTxnp9vehAuMlMbaUbFV4I-KagJ8P?usp=share_link)
+
 # The Caveats
 
 After deduplication, we now had a massive list of more than 1600 tracks.  This list comes with some caveats:
